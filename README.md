@@ -4,7 +4,7 @@ A 2D top-down horror-survival game built in vanilla HTML5 Canvas + JavaScript, w
 
 You are a journalist trapped on the fourth floor of Greenvale Asylum with something in the building that cannot be killed. Four floors, fifteen rooms, five boss encounters, three companions, six weapons — and a full story that resolves. Nothing is a placeholder and nothing is stubbed out.
 
-> University capstone project — CSE 2118 Advanced Object Oriented Programming, United International University. **Third place.**
+> University  project showcase — CSE 2118 Advanced Object Oriented Programming, United International University. **2nd Runners-Up.**
 
 ---
 
@@ -25,7 +25,6 @@ You are a journalist trapped on the fourth floor of Greenvale Asylum with someth
 - [Companions](#companions)
 - [Troubleshooting](#troubleshooting)
 - [Known limitations](#known-limitations)
-- [Team](#team)
 
 ---
 
@@ -422,20 +421,6 @@ Companions follow between rooms, survive the player's death, and can be lost per
 - **Sadid's character sprites are incomplete** — the back-facing walk frames are missing.
 - **Debug keys ship in the source.** Strip `G`, `H`, `J`, `K`, `L`, `P` and `U` before any release or demo build.
 - **No audio layer.** The hooks are in place; the sound files are not.
-
----
-
-## Team
-
-Four-person team, CSE 2118 Advanced Object Oriented Programming, United International University.
-
-| Member | Responsibility |
-|---|---|
-| **Zubair Hasan Siraji** | Level design, boss fights, overall concept, project merge, two-laptop network setup |
-| **Shreya Sikder** | Chat system, death loot |
-| **Md Jubair Al Sadid** | Death feed, leaderboard |
-| **Zonaed Arefin Zahin** | Assets — rooms and characters |
-
 ---
 
 ## Testing
