@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: auto;
+    font-family: monospace;
+}
+
+canvas {
+    background-color: #0a0a0a;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    border: 1px solid #1a0000;
+    cursor: crosshair;
+    display: block;
+}
